@@ -1,5 +1,5 @@
 var client_id = 'bf1c6632713844dcaa3e85ae3c5ea1c1';
-var redirect_uri = "http://127.0.0.1:5500/callback.html";
+var redirect_uri = "https://juanordonez0.github.io/testing/callback.html";
 
 
 
